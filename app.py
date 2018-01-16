@@ -15,7 +15,7 @@ class HelloRequestHandler(BaseHTTPRequestHandler):
                 <title>Greetings to the world</title>
             </head>
             <body>
-                <h1>Greetings to the world from {0}</h1>
+                <h1>Greetings to the world from Bashar {0}</h1>
                 <p>{1}</p>
             </body>
             </html>
